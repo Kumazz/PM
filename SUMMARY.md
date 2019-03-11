@@ -1,3 +1,6 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Marketing Department](chapter1.md)
+  * [MicroBlog](chapter1/microblog.md)
+
