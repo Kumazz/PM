@@ -6,5 +6,8 @@
 ![](/assets/WX20190410-112220@2x.png)
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x03 转发策略
 ![](/assets/转发.png)
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x04 其他策略
+![](/assets/其他.png)
+
 
 
