@@ -8,4 +8,5 @@
     * [规划](chapter1/microblog/gui-hua.md)
     * [借势](chapter1/microblog/ying-xiao.md)
     * [策略](chapter1/microblog/xi-jie.md)
+    * [分析](chapter1/microblog/fen-xi.md)
 
