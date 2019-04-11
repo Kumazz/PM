@@ -4,3 +4,9 @@
 ![](/assets/zfcl.png)
 ![](/assets/fst.png)
 ![](/assets/wbgg.png)
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x01 微博内部推广
+![](/assets/bwtt.png)
+![](/assets/rmht.png)
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x02 外部推广
+![](/assets/wbqd.png)
+
