@@ -1,4 +1,4 @@
-#借势营销 -- 杜蕾斯案例
+#借势营销 -- 行业热点、社会热点
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x00 借势技巧
 ![](/assets/WX20190328-164747@2x.png)
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x01 行业借势
