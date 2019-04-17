@@ -10,6 +10,14 @@
 ![](/assets/bdfyb.png)
 ![](/assets/bdf.png)
 ![](/assets/bp.png)
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x05 搜索精准用户
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.通过关键词找到特定需求的一类用户群体
+![](/assets/gjc.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.通过关键词找到需求用户
+![](/assets/xq.png)
+
+
+
 
 
 
