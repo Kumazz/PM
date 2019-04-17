@@ -6,6 +6,7 @@
 ![](/assets/WX20190311-185147@2x.png)
 ####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PS: 视频是未来发展方向[目前短视频、摆拍、搞笑视频为主] 
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x03 微博优势
+![](/assets/ls.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.短 -- 简短式记载(除长微博)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.平 -- 平等式交流，区别严谨的媒体
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.快 -- 裂变式传播，大V转发，热门话题
