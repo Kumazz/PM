@@ -15,7 +15,7 @@
 ![](/assets/gjc.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.通过关键词找到需求用户
 ![](/assets/xq.png)
-###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x06 话题引流 - 互动+讨论
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x06 话题引流 - 分类话题中互动+讨论
 ![](/assets/bdht.png)
 ![](/assets/bdht1.png)
 
