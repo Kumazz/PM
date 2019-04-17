@@ -2,7 +2,7 @@
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x00 账号
 ![](/assets/WX20190409-165752@2x.png)
 ![](/assets/WX20190409-222115@2x.png)
-###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x01-1 内容 -- 总结
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x01-1 内容 -- 微博主页+微博置顶
 ![](/assets/QQ20190409-213408@2x.png)
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x01-1 内容 -- 技巧
 ![](/assets/QQ20190409-214754@2x.png)
