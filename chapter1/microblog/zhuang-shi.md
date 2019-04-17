@@ -1,7 +1,7 @@
 #装修
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x00 微博布局 -- 小米
 ![](/assets/1F34CE079F0F8C4152D9306F834182AC.jpg)
-###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x01 头像设置 -- 辨识度，180*180px
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x01 头像设置 -- 清晰、正规、辨识度，180*180px
 ![](/assets/116477BD5CF836B1B6DBF76D12040322.png)
 ![](/assets/WX20190328-000854@2x.png)
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x02 昵称
