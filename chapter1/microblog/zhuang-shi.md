@@ -4,8 +4,9 @@
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x01 头像设置 -- 清晰、正规、辨识度，180*180px
 ![](/assets/116477BD5CF836B1B6DBF76D12040322.png)
 ![](/assets/WX20190328-000854@2x.png)
-###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x02 昵称
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x02 昵称 -- 关键词在昵称前
 ![](/assets/WX20190328-000400@2x.png)
+![](/assets/nc.png)
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x03 简介 -- 做什么，给用户带来什么
 ![](/assets/WX20190328-001456@2x.png)
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x04 背景 -- 封面 920*300px，主页宽1600px，避免花哨色调过大
