@@ -17,6 +17,8 @@
 ![](/assets/qz.png)
 ![](/assets/nrms.png)
 ![](/assets/zqnr.png)
+![](/assets/gjcrd.png)
+![](/assets/rcsj.png)
 
 
 
