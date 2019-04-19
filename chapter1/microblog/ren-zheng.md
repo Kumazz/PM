@@ -12,6 +12,10 @@
 ![](/assets/WX20190419-095244@2x.png)
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x04 主持人
 ![](/assets/WX20190419-100144@2x.png)
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x05 金V认证 -- 达到条件自动升级
+![](/assets/WX20190419-100955@2x.jpg)
+![](/assets/WX20190419-101237@2x.png)
+
 
 
 
