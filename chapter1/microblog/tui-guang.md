@@ -11,4 +11,6 @@
 ![](/assets/kjgg.png)
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x02 外部推广 -- 不推荐自动营销软件，封号
 ![](/assets/wbqd.png)
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x03 广告投放
+
 
