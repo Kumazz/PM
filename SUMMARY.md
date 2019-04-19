@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [New Media](chapter1.md)
   * [MicroBlog](chapter1/microblog.md)
-    * [实时号](chapter1/microblog/shi-shi-hao.md)
+    * [认证](chapter1/microblog/ren-zheng.md)
     * [定位](chapter1/microblog/ding-wei.md)
     * [装修](chapter1/microblog/zhuang-shi.md)
     * [规划](chapter1/microblog/gui-hua.md)
@@ -14,4 +14,5 @@
     * [推广](chapter1/microblog/tui-guang.md)
     * [引流](chapter1/microblog/yin-liu.md)
     * [总结](chapter1/microblog/jin-jie.md)
+    * [实时号](chapter1/microblog/shi-shi-hao.md)
 
