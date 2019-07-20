@@ -12,6 +12,7 @@
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3 定位 -- 定义价值主观
 ![](/assets/QQ20190720-230936@2x.png)
 ![](/assets/QQ20190720-231334@2x.png)
+![](/assets/QQ20190720-231723@2x.png)
 
 
 
