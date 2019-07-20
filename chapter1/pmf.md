@@ -3,11 +3,13 @@
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2 P/MF：产品与市场匹配
 ![](/assets/QQ20190720-223116@2x.png)
 # 二、实行P/MF
-###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1 确定目标用户 -- 用户画像
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1 确定调研目标用户 -- 用户画像
 ![](/assets/QQ20190720-223858@2x.png)
 ![](/assets/QQ20190720-224804@2x.png)
-###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2 用户调研
 ![](/assets/QQ20190720-225124@2x.jpg)
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2 发现用户未被满足需求
+![](/assets/QQ20190720-225714@2x.png)
+
 
 
 
