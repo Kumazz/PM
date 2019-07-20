@@ -17,7 +17,7 @@
 ![](/assets/QQ20190720-173052@2x.png)
 ####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;假设一切都是错误的
 ![](/assets/QQ20190720-175011@2x.png)
-####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数据检视、精准洞察、指导方向
+####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数据检视、精准洞察、找寻原因、驱动增长
 ![](/assets/QQ20190720-180324@2x.png)
 ![](/assets/QQ20190720-180542@2x.png)
 
