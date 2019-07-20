@@ -17,6 +17,9 @@
 ![](/assets/QQ20190720-173052@2x.png)
 ####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;假设一切都是错误的
 ![](/assets/QQ20190720-175011@2x.png)
+####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数据检视、得出指导方向
+![](/assets/QQ20190720-180324@2x.png)
+![](/assets/QQ20190720-180542@2x.png)
 
 
 
