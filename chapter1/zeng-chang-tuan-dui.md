@@ -21,8 +21,11 @@
 ![](/assets/QQ20190720-214431@2x.png)
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.6 优先级方案:
 ![](/assets/QQ20190720-214705@2x.png)
-###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.6 实施目标:
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.7 实施目标:
 ![](/assets/QQ20190720-214830@2x.jpg)
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.8 结果分析:
+![](/assets/QQ20190720-215115@2x.png)
+
 
 
 
