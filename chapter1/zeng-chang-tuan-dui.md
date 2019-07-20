@@ -25,6 +25,9 @@
 ![](/assets/QQ20190720-214830@2x.jpg)
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.8 结果分析:
 ![](/assets/QQ20190720-215115@2x.png)
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.9 系统化:
+![](/assets/QQ20190720-220958@2x.png)
+
 
 
 
