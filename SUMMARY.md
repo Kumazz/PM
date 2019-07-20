@@ -15,6 +15,6 @@
     * [引流](chapter1/microblog/yin-liu.md)
     * [总结](chapter1/microblog/jin-jie.md)
     * [实时号](chapter1/microblog/shi-shi-hao.md)
-  * Growth Hacking
+  * [Growth Hacking](chapter1/growth-hacking.md)
     * [定义](chapter1/ding-yi.md)
 
