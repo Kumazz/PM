@@ -9,6 +9,9 @@
 ![](/assets/QQ20190720-225124@2x.jpg)
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2 发现用户未被满足需求
 ![](/assets/QQ20190720-225714@2x.png)
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3 定位 -- 定义价值主观
+![](/assets/QQ20190720-230936@2x.png)
+
 
 
 
