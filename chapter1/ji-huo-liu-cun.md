@@ -17,6 +17,7 @@
 ![](/assets/QQ20190721-225255@2x.png)
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RFM案例分析
 ![](/assets/QQ20190721-225351@2x.png)
+![](/assets/QQ20190721-225536@2x.png)
 # 五、HOOK模型
 ![](/assets/QQ20190721-213833@2x.png)
 ![](/assets/QQ20190721-214003@2x.png)
