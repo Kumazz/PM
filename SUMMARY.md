@@ -18,5 +18,7 @@
 * [Growth Hacking](chapter1/growth-hacking.md)
   * [法则模型](chapter1/ding-yi.md)
   * [增长团队](chapter1/zeng-chang-tuan-dui.md)
-  * [P/MF](chapter1/pmf.md)
+  * [测试增长](chapter1/pmf.md)
+  * [持续增长](chapter1/zeng-chang-shou-duan.md)
+  * [获客增长](chapter1/huo-ke-zeng-chang.md)
 
