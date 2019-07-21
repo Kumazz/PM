@@ -7,6 +7,7 @@
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惊喜时刻 -- 爽点
 ![](/assets/QQ20190721-220827@2x.png)
 ![](/assets/QQ20190721-221729@2x.png)
+![](/assets/QQ20190721-223226@2x.png)
 # 三、HOOK模型
 ![](/assets/QQ20190721-213833@2x.png)
 ![](/assets/QQ20190721-214003@2x.png)
