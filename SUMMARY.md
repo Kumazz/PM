@@ -22,4 +22,5 @@
   * [持续增长](chapter1/zeng-chang-shou-duan.md)
   * [获客增长](chapter1/huo-ke-zeng-chang.md)
   * [激活留存](chapter1/ji-huo-liu-cun.md)
+  * [传播留存](chapter1/chuan-bo-liu-cun.md)
 
