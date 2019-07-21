@@ -1,8 +1,18 @@
 # 一、病毒传播
 ![](/assets/QQ20190721-230024@2x.png)
-####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;口碑营销：简单好记的产品名，特性简单描述
-####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;激励式口碑营销：激励机制
-####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;示范效应传播：产品使用逻辑简单
+####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;口碑营销: 简单好记的产品名，特性简单描述
+####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;激励式口碑营销: 激励机制
+####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;示范效应传播: 产品使用逻辑简单
+####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传染式传播: 网络效益对己有利
+####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爆发式传播: 搞怪系列
+
+
+
+
+
+
+
+
 
 
 
