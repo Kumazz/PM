@@ -7,9 +7,13 @@
 ![](/assets/QQ20190722-124936@2x.png)
 ![](/assets/QQ20190722-125037@2x.png)
 ![](/assets/QQ20190722-125705@2x.png)
-# 三、三大原则: 
-####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;挑剔的白痴用户心理
-![](/assets/QQ20190720-173052@2x.png)
+![](/assets/QQ20190722-130300@2x.png)
+![](/assets/QQ20190722-130347@2x.png)
+# 三、HEART指标模型:
+####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;愉悦度、参与度、接受度、留存度、任务成功/失败率
+ ![](/assets/QQ20190722-130642@2x.png)
+
+
 ####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;假设一切都是错误的
 ![](/assets/QQ20190720-175011@2x.png)
 ####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数据检视、精准洞察、找寻原因、驱动增长
