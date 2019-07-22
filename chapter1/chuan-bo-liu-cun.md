@@ -22,13 +22,16 @@
 ![](/assets/QQ20190722-104654@2x.png)
 ####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;失败的产品自己装逼，成功的产品帮别人装逼 -- 星巴克
 ####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;用"颜值"铸造社交货币 -- 美丽说、美图秀秀拍图
-####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;用"财富""素养""品味""运动健康" -- 支付宝账单、网易云音乐、Keep
-
-
-
-
+####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;用"财富""素养""品味品质""运动健康" -- 支付宝账单、网易云音乐、Keep、得到的契约精神
 ![](/assets/QQ20190722-104901@2x.png)
 ![](/assets/QQ20190722-110043@2x.png)
+![](/assets/QQ20190722-110817@2x.png)
+![](/assets/QQ20190722-111332@2x.png)
+![](/assets/QQ20190722-111602@2x.png)
+![](/assets/QQ20190722-111754@2x.png)
+![](/assets/QQ20190722-111825@2x.png)
+![](/assets/QQ20190722-111910@2x.png)
+![](/assets/QQ20190722-112004@2x.png)
 # 四、三大原则: 
 ####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;挑剔的白痴用户心理
 ![](/assets/QQ20190720-173052@2x.png)
@@ -38,6 +41,17 @@
 ![](/assets/QQ20190720-180324@2x.png)
 ![](/assets/QQ20190720-180542@2x.png)
 ![](/assets/QQ20190720-181331@2x.png)
+# 五、微信裂变案例:
+![](/assets/QQ20190722-114840@2x.png) 
+![](/assets/QQ20190722-114849@2x.png)
+![](/assets/QQ20190722-114939@2x.png)
+![](/assets/QQ20190722-115007@2x.png)
+![](/assets/QQ20190722-115128@2x.png)
+![](/assets/QQ20190722-115154@2x.png)
+![](/assets/QQ20190722-115229@2x.png)
+![](/assets/QQ20190722-115337@2x.png)
+![](/assets/QQ20190722-115438@2x.png)
+
 
 
 
