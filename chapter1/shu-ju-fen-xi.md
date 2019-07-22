@@ -12,14 +12,17 @@
 # 三、HEART指标模型:
 ####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;愉悦度、参与度、接受度、留存度、任务成功/失败率
  ![](/assets/QQ20190722-130642@2x.png)
+# 四、数据分析
+![](/assets/QQ20190722-131105@2x.png)
+![](/assets/QQ20190722-131218@2x.png)
+![](/assets/QQ20190722-131518@2x.png)
+![](/assets/QQ20190722-132039@2x.png)
+![](/assets/QQ20190722-132244@2x.png)
+![](/assets/QQ20190722-132342@2x.png)
+![](/assets/QQ20190722-132657@2x.png)
 
 
-####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;假设一切都是错误的
-![](/assets/QQ20190720-175011@2x.png)
-####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数据检视、精准洞察、找寻原因、驱动增长
-![](/assets/QQ20190720-180324@2x.png)
-![](/assets/QQ20190720-180542@2x.png)
-![](/assets/QQ20190720-181331@2x.png)
+
 
 
 
