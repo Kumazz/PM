@@ -15,6 +15,8 @@
 ![](/assets/QQ20190722-092512@2x.png)
 ![](/assets/QQ20190722-102221@2x.png)
 ![](/assets/QQ20190722-102420@2x.png)
+![](/assets/QQ20190722-103547@2x.png)
+![](/assets/QQ20190722-103753@2x.png)
 # 三、三大原则: 
 ####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;挑剔的白痴用户心理
 ![](/assets/QQ20190720-173052@2x.png)
