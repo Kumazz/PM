@@ -5,25 +5,16 @@
 ####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;示范效应传播: 产品使用逻辑简单
 ####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传染式传播: 网络效益对己有利
 ####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爆发式传播: 搞怪系列
-
-
-
-
-
-
-
-
-
-
-
-###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2 Growth: 汉堡王TVC -- 智能设备、HOTMAIL -- 尾缀推荐
-![](/assets/QQ20190720-161950@2x.png)
-####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;产业周期 -- 增量市场阶段不应过高考虑用户体验
-####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;企业阶段 -- 引导改变思想观念[病毒式营销]，筑建壁垒:资源壁垒、技术壁垒、人才壁垒、地域壁垒，搭建数据分析平台
-![](/assets/QQ20190720-162331@2x.png)
-![](/assets/QQ20190720-163459@2x.png)
-# 二、特质
-![](/assets/QQ20190720-172306@2x.png)
+![](/assets/QQ20190721-230837@2x.png)
+# 二、病毒系数
+####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;微信裂变、拼单免单
+![](/assets/QQ20190721-231506@2x.png)
+![](/assets/QQ20190721-231653@2x.png)
+![](/assets/QQ20190722-091725@2x.png)
+![](/assets/QQ20190722-092438@2x.png)
+![](/assets/QQ20190722-092512@2x.png)
+![](/assets/QQ20190722-102221@2x.png)
+![](/assets/QQ20190722-102420@2x.png)
 # 三、三大原则: 
 ####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;挑剔的白痴用户心理
 ![](/assets/QQ20190720-173052@2x.png)
