@@ -25,5 +25,5 @@
   * [传播留存](chapter1/chuan-bo-liu-cun.md)
   * [数据分析](chapter1/shu-ju-fen-xi.md)
   * [区块链技术](chapter1/qu-kuai-lian-ji-zhu.md)
-* SEO
+* [SEO](seo.md)
 
