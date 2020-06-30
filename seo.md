@@ -19,13 +19,12 @@
   
 
     
-&emsp;&emsp;**windows / mac os:** https://dev.mysql.com/downloads/mysql/
-&emsp;&emsp;**linux:** yum install mysql-server
-&emsp;&emsp;**源码安装:** 下载的文件是压缩包( .zip等，不是.msi)，将其解压后(如解压在C盘根目录)进入文件夹在 bin 目录下进行命令操作
-* #### 搜索引擎特性
-&emsp;&emsp;1. **网民数量（潜在的目标群体）**
 
-&emsp;&emsp;1. **网民数量（潜在的目标群体）**
+
+* #### 搜索引擎特性
+
+&emsp;&emsp;1. **满足用户搜索需求**
+&emsp;&emsp;2. **万物的信息连接起来**
 
 
 
